@@ -1,0 +1,10 @@
+{
+  "description": "This modern SaaS sales dashboard provides businesses with key performance metrics, sales trends, and order tracking, enhancing data visibility and decision-making.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
